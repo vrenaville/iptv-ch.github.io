@@ -76,7 +76,7 @@ https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouvert
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 #EXTINF:-1 tvg-id="animaux.fr" tvg-logo="https://picserve.netplus.ch/channels/animaux.png",ANIMAUX HD 720p
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
-#EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://picserve.netplus.ch/channels/artehd.png",arte F HD 720p
+#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://picserve.netplus.ch/channels/artehd.png",arte F HD 720p
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 #EXTINF:-1 tvg-id="bfmtv.fr" tvg-logo="https://picserve.netplus.ch/channels/bfmtv.png",BFM TV HD 720p
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
